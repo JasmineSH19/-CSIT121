@@ -1,0 +1,24 @@
+body{
+  font-family:verdana, helvietica, sans-serif;
+  background-color:blue;
+  font-size:170%;
+    text-align:center;
+}
+
+h1, h2{
+  color:#fff;
+}
+
+p{
+  line-height:1.5em;
+  text-indent:1em;
+}
+
+.bolded{
+  font-weight:bold;
+  color:white;
+}
+
+.indented{
+  text-indent:2em;
+}
